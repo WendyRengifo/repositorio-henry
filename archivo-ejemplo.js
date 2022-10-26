@@ -5,4 +5,6 @@ function  caminar(carro){
     else{
         return false;
     }
+
+    console.log = ["hola mundo"];
 }
